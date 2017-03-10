@@ -1,6 +1,6 @@
 # Ruby on Rails Tutorial sample application
 
-At: 3.2
+At: Listing 3.4
 
 This is the sample application for
 [*Ruby on Rails Tutorial:
