@@ -2,6 +2,9 @@
 
 At: Listing 3.4
 
+Updated different branch
+
+
 This is the sample application for
 [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](http://www.railstutorial.org/)
